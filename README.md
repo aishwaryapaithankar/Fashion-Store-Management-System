@@ -20,4 +20,15 @@ The purpose of this FSMS is to efficiently manage the database of store and to c
 
           1. Generation of Report
           2. Pictorial Representation of Sales (till date)
-         
+     
+**ERD**
+![ERD (1)](https://user-images.githubusercontent.com/74677763/99881436-e450e280-2c3f-11eb-9de7-29acdcd4ecce.png)     
+     
+**SCREENSHOTS**
+
+![Screenshot from 2017-10-12 15-05-43](https://user-images.githubusercontent.com/74677763/99881437-e5820f80-2c3f-11eb-8ff6-e1893e4f3a1b.png)
+![Screenshot from 2017-10-12 15-09-16 (1)](https://user-images.githubusercontent.com/74677763/99881438-e7e46980-2c3f-11eb-8b0e-67b700867246.png)
+![Screenshot from 2017-10-12 15-08-36](https://user-images.githubusercontent.com/74677763/99881439-e87d0000-2c3f-11eb-83a9-cdbdafe11a7b.png)
+![Screenshot from 2017-10-12 15-09-11](https://user-images.githubusercontent.com/74677763/99881441-e9159680-2c3f-11eb-906b-1e1423d8a5db.png)
+![Screenshot from 2017-10-12 15-08-27](https://user-images.githubusercontent.com/74677763/99881444-e9ae2d00-2c3f-11eb-9b42-a4d178fefd8c.png)
+
